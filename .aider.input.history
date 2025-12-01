@@ -1,0 +1,114 @@
+
+# 2025-12-01 07:11:20.580099
++Code the following app
++```
++You are an expert AI product designer and web UI/UX expert. Your task is to **simulate and explain how the mini-app “Onchain Risk Radar” works**. The focus is **on product functionality, user experience, and web design layout**, suitable for Mini-App Factory or Farcaster environments. Do not generate backend code—only describe workflow, UX, and web design.
++
++---
++
++## 1. Product Overview
++
++- Name: Onchain Risk Radar  
++- Purpose: Scan crypto tokens/smart contracts and provide **risk assessment, sentiment analysis, and alerts**  
++- Target users: crypto traders, Web3 enthusiasts, community managers  
++- Environment: Mini-App Factory / Farcaster-compatible  
++
++---
++
++## 2. User Input
++
++- User pastes a **token or contract address**  
++- Optional: token symbol or name  
++- Clicks **“Scan”** button  
++
++---
++
++## 3. Workflow / How It Works (Step-by-Step)
++
++1. **Receive input**  
++   - User provides token contract address  
++
++2. **On-chain scan**  
++   - Check contract details: owner privileges, liquidity, suspicious functions, known exploits  
++
++3. **AI Risk Analysis**  
++   - Assign **risk score (0–100)** based on contract age, owner privileges, liquidity, fees, whale activity  
++   - Determine **market sentiment**: Bullish / Bearish / Neutral  
++
++4. **Whale & Transaction Alerts**  
++   - Detect large buys/sells and liquidity moves  
++
++5. **Output Display**  
++   - Risk Score + sentiment  
++   - Alerts (owner privileges, fees, liquidity, suspicious functions)  
++   - Whale activity summary  
++   - Optional: visual charts (historical risk, price trends)  
++
++---
++
++## 4. Example Inputs & Outputs
++
++**Example 1:**  
++- Input: `0xABCDEF123456789`  
++- Output:  
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-01 07:11:20.581100
++Code the following app
++```
++You are an expert AI product designer and web UI/UX expert. Your task is to **simulate and explain how the mini-app “Onchain Risk Radar” works**. The focus is **on product functionality, user experience, and web design layout**, suitable for Mini-App Factory or Farcaster environments. Do not generate backend code—only describe workflow, UX, and web design.
++
++---
++
++## 1. Product Overview
++
++- Name: Onchain Risk Radar  
++- Purpose: Scan crypto tokens/smart contracts and provide **risk assessment, sentiment analysis, and alerts**  
++- Target users: crypto traders, Web3 enthusiasts, community managers  
++- Environment: Mini-App Factory / Farcaster-compatible  
++
++---
++
++## 2. User Input
++
++- User pastes a **token or contract address**  
++- Optional: token symbol or name  
++- Clicks **“Scan”** button  
++
++---
++
++## 3. Workflow / How It Works (Step-by-Step)
++
++1. **Receive input**  
++   - User provides token contract address  
++
++2. **On-chain scan**  
++   - Check contract details: owner privileges, liquidity, suspicious functions, known exploits  
++
++3. **AI Risk Analysis**  
++   - Assign **risk score (0–100)** based on contract age, owner privileges, liquidity, fees, whale activity  
++   - Determine **market sentiment**: Bullish / Bearish / Neutral  
++
++4. **Whale & Transaction Alerts**  
++   - Detect large buys/sells and liquidity moves  
++
++5. **Output Display**  
++   - Risk Score + sentiment  
++   - Alerts (owner privileges, fees, liquidity, suspicious functions)  
++   - Whale activity summary  
++   - Optional: visual charts (historical risk, price trends)  
++
++---
++
++## 4. Example Inputs & Outputs
++
++**Example 1:**  
++- Input: `0xABCDEF123456789`  
++- Output:  
++
++```
++
++Generate an app logo and update the app metadata title and description.
